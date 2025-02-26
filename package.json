@@ -1,0 +1,19 @@
+{
+  "name": "apinode",
+  "version": "1.0.0",
+  "description": "primo apinode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MerisiMartina/ApiNode.git"
+  },
+  "author": "martina merisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MerisiMartina/ApiNode/issues"
+  },
+  "homepage": "https://github.com/MerisiMartina/ApiNode#readme"
+}
